@@ -52,4 +52,5 @@ if d[3].isdigit()==False or d[4].isdigit()==False:
 if e==1:
     print("APPROVED")
 else:
+
     print("REJECTED")
